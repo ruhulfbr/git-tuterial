@@ -1,6 +1,8 @@
 <?php
+    echo "Hello World ! This is Github tuterial <br>";
+    function greeting(){
+        return "Good Evening";
+    }
 
-    echo "Hello World ! This is Github tuterial";
-
-
-    ?>
+    echo greeting();
+?>
